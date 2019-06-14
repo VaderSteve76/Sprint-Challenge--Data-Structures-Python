@@ -8,7 +8,6 @@ Add your answers to the questions below.
 
 4. What is the space complexity of your ring buffer's `get` method?
 
-
 5. What is the runtime complexity of the provided code in `names.py`?
 
 6. What is the space complexity of the provided code in `names.py`?
